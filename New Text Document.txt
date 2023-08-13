@@ -1,0 +1,4 @@
+<div class="icon_img">
+                            <input type="file">
+                            <i class="fa-regular fa-image"></i>
+                        </div>
